@@ -1,2 +1,3 @@
 # Lucidware
-Site Info
+
+Code containing the framework and design of the Lucidware.io site
